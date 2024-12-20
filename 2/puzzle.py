@@ -9,7 +9,7 @@ def is_safe(report):
     return -1
 
 
-with open('input_2.txt') as file:
+with open('input.txt') as file:
     safe_reports = 0
     results = []
     for line in file.readlines():

@@ -1,6 +1,6 @@
 from collections import Counter
 
-with open('input_1.txt') as file:
+with open('input.txt') as file:
 
     list_1 = []
     list_2 = []
